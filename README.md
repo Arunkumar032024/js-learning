@@ -1,2 +1,6 @@
-# js-learning
-Learning js by github codespaces
+# JavaScript learning journey
+
+<ol>
+<li>Add dev container</li>
+</ol>
+
